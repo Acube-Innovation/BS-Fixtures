@@ -442,16 +442,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Sr TECHNICIAN Gr I",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.841699",
-  "name": "Sr TECHNICIAN Gr I",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Sr PROGRAMMER Gr III",
   "docstatus": 0,
   "doctype": "Designation",
@@ -467,6 +457,16 @@
   "doctype": "Designation",
   "modified": "2025-05-28 12:40:43.816094",
   "name": "TECHNICIAN SUPERVISOR Gr II",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Sr TECHNICIAN Gr I",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-28 12:40:43.841699",
+  "name": "Sr TECHNICIAN Gr I",
   "skills": []
  }
 ]
