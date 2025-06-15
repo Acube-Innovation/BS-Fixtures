@@ -248,13 +248,13 @@ fixtures = [
     },
     {
         "doctype": "Department",
-        "filters": [["name", "in", ["IT", "OMD", "PMS-2", "QCD", "ADM", "MTD", "FAB", "GMS-1", "CMM", "PMS-1", "FIN&ACC", "GMS-2", "HT", "MIC", "MHT", "OGM", "PROJECTS", "QAD", "R&D,DC", "ST", "BD&E", "SCM"
+        "filters": [["department_name", "in", ["ADM","BD&E", "CMM", "FAB", "FIN&ACC", "GMS-1", "GMS-2", "HT", "IT", "MIC", "MHT", "MTD", "OGM", "OMD", "PMS-1", "PMS-2", "PROJECTS", "QAD", "QCD", "R&D,DC", "SCM","ST",
 ]]]
     },
     {
         "doctype": "Designation",
         "filters": [
-            ["designation_name", "in", ["ATTENDANT", "CLERK, TELEPHONE OPERATOR", "EXECUTIVE ASSISTANT", "NURSE (FTC)", "Sr ASSISTANT Gr I", "Sr ATTENDANT-MESSENGER Gr I", "Sr CLERK Gr I", "Sr CLERK Gr II", "Sr PROGRAMMER Gr III", "Sr STENO TYPIST Gr I", "Sr STENO TYPIST Gr II", "Sr TECHNICIAN Gr I", "Sr TECHNICIAN Gr II", "TECHNICIAN (ELECTRICIAN) (FTC)", "TECHNICIAN (ELECTRONICS) (FTC)", "TECHNICIAN (ELECTROPLATER) (FTC)", "TECHNICIAN (FITTER) (FTC)", "TECHNICIAN (INSTRUMENTATION) (FTC)", "TECHNICIAN (MACHINIST) (FTC)", "TECHNICIAN (TOOL & DIE MAKER) (FTC)", "TECHNICIAN (TURNER) (FTC)", "TECHNICIAN (WELDER) (FTC)", "TECHNICIAN Gr I", "TECHNICIAN Gr II", "TECHNICIAN SUPERVISOR Gr I", "TECHNICIAN SUPERVISOR Gr II", "Addl GENERAL MANAGER", "ASST ACCOUNTS OFFICER (FTC)", "ASST ENGINEER", "CHIEF FINANCIAL OFFICER", "COMPANY SECRETARY", "Dy GENERAL MANAGER", "Dy GENERAL MANAGER (PROJECTS) FTC", "Dy MANAGER", "Dy MANAGER (FTC)", "ENGINEER", "ENGINEER (FTC)", "GENERAL MANAGER(Mgmt & Operations)", "MANAGER", "MANAGING DIRECTOR", "MEDICAL OFFICER(FTC)", "OFFICER-ACCOUNTS", "Sr MANAGER", "Sr.SUPERVISOR", "SUPERVISOR", "SUPERVISOR (FTC)", "SUPERVISOR(ELECTRONICS)FTC", "SUPERVISOR(FTC)", "SUPERVISOR(MECHANICAL)FTC", "SUPERVISOR(MECHNICAL)(FTC)", "WELFARE OFFICER (FTC)"
+            ["designation_name", "in", ["TECHNICIAN SUPERVISOR Gr II","Manager","SENIOR ASSISTANT Gr I","Technician (FTC)","Sr TECHNICIAN Gr I","Engineer(FTC)","Sr TECHNICIAN Gr II","Managing Director","TECHNICIAN Gr II","SUPERVISOR (FTC)","Welfare Officer(FTC)","TECHNICIAN SUPERVISOR Gr I","NURSE (FTC)","DY.MANAGER","Engineer","ASST. ENGINEER","ASST ENGINEER","Senior Supervisor","TECHNICIAN Gr I","Sr PROGRAMMER Gr III","COMPANY SECRETARY","Additional General Manager","CLERK, TELEPHONE OPERATOR","General Manager(Mgmt & Operaions)","Medical Officer (FTC)","Sr. TECHNICIAN Gr I","Sr CLERK Gr I","SR.MANAGER","Sr ASSISTANT Gr I","Sr STENO TYPIST Gr II","Deputy General Manager","SUPERVISOR","ATTENDANT","Assistant Accounts Officer","Executive Assistant","Sr STENO TYPIST Gr I","Deputy General Manager (Pojects) FTC","Sr TECHNICIAN Gr.II","Technician (Machinist)","Sr CLERK Gr II","Tehnician (Machinist)","Dy MANAGER (FTC)","Engineer on FTC","Sr ATTENDANT-MESSENGER Gr I","Chief Financial Officer","Technician","Addl GENERAL MANAGER"
 ]]
         ]
     }

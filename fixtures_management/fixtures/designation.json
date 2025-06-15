@@ -2,6 +2,206 @@
  {
   "appraisal_template": null,
   "description": null,
+  "designation_name": "SENIOR ASSISTANT Gr I",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:17.912671",
+  "name": "SENIOR ASSISTANT Gr I",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Engineer(FTC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:17.927384",
+  "name": "Engineer(FTC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Welfare Officer(FTC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.021992",
+  "name": "Welfare Officer(FTC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "DY.MANAGER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.064397",
+  "name": "DY.MANAGER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "ASST. ENGINEER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.082392",
+  "name": "ASST. ENGINEER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Senior Supervisor",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.094604",
+  "name": "Senior Supervisor",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Technician",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.111914",
+  "name": "Technician",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Additional General Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.141892",
+  "name": "Additional General Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Medical Officer (FTC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.162470",
+  "name": "Medical Officer (FTC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "SR.MANAGER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.187362",
+  "name": "SR.MANAGER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Deputy General Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.253724",
+  "name": "Deputy General Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Sr TECHNICIAN Gr.II",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.285128",
+  "name": "Sr TECHNICIAN Gr.II",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Technician (Machinist)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.297440",
+  "name": "Technician (Machinist)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Deputy General Manager (Pojects) FTC",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.334814",
+  "name": "Deputy General Manager (Pojects) FTC",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Engineer on FTC",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.351746",
+  "name": "Engineer on FTC",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Tehnician (Machinist)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.386976",
+  "name": "Tehnician (Machinist)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Assistant Accounts Officer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:44:46.090747",
+  "name": "Assistant Accounts Officer",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Sr. TECHNICIAN Gr I",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:45:34.217317",
+  "name": "Sr. TECHNICIAN Gr I",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "General Manager(Mgmt & Operaions)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:45:56.243699",
+  "name": "General Manager(Mgmt & Operaions)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Technician (FTC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:47:32.320248",
+  "name": "Technician (FTC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
   "designation_name": "Chief Financial Officer",
   "docstatus": 0,
   "doctype": "Designation",
@@ -57,16 +257,6 @@
   "doctype": "Designation",
   "modified": "2025-05-28 12:40:43.835575",
   "name": "Sr TECHNICIAN Gr II",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Sr TECHNICIAN Gr I",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.841699",
-  "name": "Sr TECHNICIAN Gr I",
   "skills": []
  },
  {
@@ -182,96 +372,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "TECHNICIAN (FITTER) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.999517",
-  "name": "TECHNICIAN (FITTER) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (MACHINIST) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.005991",
-  "name": "TECHNICIAN (MACHINIST) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (TURNER) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.013101",
-  "name": "TECHNICIAN (TURNER) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (WELDER) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.022590",
-  "name": "TECHNICIAN (WELDER) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (TOOL & DIE MAKER) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.029707",
-  "name": "TECHNICIAN (TOOL & DIE MAKER) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (ELECTROPLATER) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.038926",
-  "name": "TECHNICIAN (ELECTROPLATER) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (ELECTRICIAN) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.048126",
-  "name": "TECHNICIAN (ELECTRICIAN) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (INSTRUMENTATION) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.056725",
-  "name": "TECHNICIAN (INSTRUMENTATION) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "TECHNICIAN (ELECTRONICS) (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:44.063577",
-  "name": "TECHNICIAN (ELECTRONICS) (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "NURSE (FTC)",
   "docstatus": 0,
   "doctype": "Designation",
@@ -312,101 +412,11 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Dy GENERAL MANAGER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.319613",
-  "name": "Dy GENERAL MANAGER",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Dy GENERAL MANAGER (PROJECTS) FTC",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.328499",
-  "name": "Dy GENERAL MANAGER (PROJECTS) FTC",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Dy MANAGER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.334600",
-  "name": "Dy MANAGER",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Dy MANAGER (FTC)",
   "docstatus": 0,
   "doctype": "Designation",
   "modified": "2025-05-28 13:13:54.343627",
   "name": "Dy MANAGER (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "ENGINEER (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.355926",
-  "name": "ENGINEER (FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "GENERAL MANAGER(Mgmt & Operations)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.363666",
-  "name": "GENERAL MANAGER(Mgmt & Operations)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "MEDICAL OFFICER(FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.379554",
-  "name": "MEDICAL OFFICER(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "OFFICER-ACCOUNTS",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.387526",
-  "name": "OFFICER-ACCOUNTS",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Sr MANAGER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.396684",
-  "name": "Sr MANAGER",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Sr.SUPERVISOR",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.405694",
-  "name": "Sr.SUPERVISOR",
   "skills": []
  },
  {
@@ -432,51 +442,11 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "SUPERVISOR(ELECTRONICS)FTC",
+  "designation_name": "Sr TECHNICIAN Gr I",
   "docstatus": 0,
   "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.435206",
-  "name": "SUPERVISOR(ELECTRONICS)FTC",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "SUPERVISOR(FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.445429",
-  "name": "SUPERVISOR(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "SUPERVISOR(MECHANICAL)FTC",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.456006",
-  "name": "SUPERVISOR(MECHANICAL)FTC",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "SUPERVISOR(MECHNICAL)(FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.463259",
-  "name": "SUPERVISOR(MECHNICAL)(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "WELFARE OFFICER (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.471800",
-  "name": "WELFARE OFFICER (FTC)",
+  "modified": "2025-05-28 12:40:43.841699",
+  "name": "Sr TECHNICIAN Gr I",
   "skills": []
  },
  {
@@ -497,16 +467,6 @@
   "doctype": "Designation",
   "modified": "2025-05-28 12:40:43.816094",
   "name": "TECHNICIAN SUPERVISOR Gr II",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "ASST ACCOUNTS OFFICER (FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.290764",
-  "name": "ASST ACCOUNTS OFFICER (FTC)",
   "skills": []
  }
 ]
