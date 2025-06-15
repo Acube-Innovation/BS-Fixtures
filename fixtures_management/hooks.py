@@ -242,3 +242,20 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {"doctype": 
+    "Salary Component", 
+    },
+    {
+        "doctype": "Department",
+        "filters": [["department_name", "in", ["ADM","BD&E", "CMM", "FAB", "FIN&ACC", "GMS-1", "GMS-2", "HT", "IT", "MIC", "MHT", "MTD", "OGM", "OMD", "PMS-1", "PMS-2", "PROJECTS", "QAD", "QCD", "R&D,DC", "SCM","ST",
+]]]
+    },
+    {
+        "doctype": "Designation",
+        "filters": [
+            ["designation_name", "in", ["TECHNICIAN SUPERVISOR Gr II","Manager","SENIOR ASSISTANT Gr I","Technician (FTC)","Sr TECHNICIAN Gr I","Engineer(FTC)","Sr TECHNICIAN Gr II","Managing Director","TECHNICIAN Gr II","SUPERVISOR (FTC)","Welfare Officer(FTC)","TECHNICIAN SUPERVISOR Gr I","NURSE (FTC)","DY.MANAGER","Engineer","ASST. ENGINEER","ASST ENGINEER","Senior Supervisor","TECHNICIAN Gr I","Sr PROGRAMMER Gr III","COMPANY SECRETARY","Additional General Manager","CLERK, TELEPHONE OPERATOR","General Manager(Mgmt & Operaions)","Medical Officer (FTC)","Sr. TECHNICIAN Gr I","Sr CLERK Gr I","SR.MANAGER","Sr ASSISTANT Gr I","Sr STENO TYPIST Gr II","Deputy General Manager","SUPERVISOR","ATTENDANT","Assistant Accounts Officer","Executive Assistant","Sr STENO TYPIST Gr I","Deputy General Manager (Pojects) FTC","Sr TECHNICIAN Gr.II","Technician (Machinist)","Sr CLERK Gr II","Tehnician (Machinist)","Dy MANAGER (FTC)","Engineer on FTC","Sr ATTENDANT-MESSENGER Gr I","Chief Financial Officer","Technician","Addl GENERAL MANAGER"
+]]
+        ]
+    }
+]
