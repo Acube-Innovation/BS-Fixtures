@@ -372,16 +372,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Deputy General Manager",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.253724",
-  "name": "Deputy General Manager",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Manager",
   "docstatus": 0,
   "doctype": "Designation",
@@ -457,6 +447,16 @@
   "doctype": "Designation",
   "modified": "2025-05-28 12:40:43.925954",
   "name": "Sr ASSISTANT Gr I",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Deputy General Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.253724",
+  "name": "Deputy General Manager",
   "skills": []
  },
  {
