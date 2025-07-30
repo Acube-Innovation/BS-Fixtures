@@ -2,16 +2,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "SENIOR ASSISTANT Gr I",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:17.912671",
-  "name": "SENIOR ASSISTANT Gr I",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "ASST. ENGINEER",
   "docstatus": 0,
   "doctype": "Designation",
@@ -22,31 +12,11 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Senior Supervisor",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.094604",
-  "name": "Senior Supervisor",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Technician",
   "docstatus": 0,
   "doctype": "Designation",
   "modified": "2025-06-09 15:40:18.111914",
   "name": "Technician",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Additional General Manager",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.141892",
-  "name": "Additional General Manager",
   "skills": []
  },
  {
@@ -127,16 +97,6 @@
   "doctype": "Designation",
   "modified": "2025-06-09 15:45:34.217317",
   "name": "Sr. TECHNICIAN Gr I",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "General Manager(Mgmt & Operaions)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:45:56.243699",
-  "name": "General Manager(Mgmt & Operaions)",
   "skills": []
  },
  {
@@ -242,26 +202,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Welfare Officer(FTC)",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.021992",
-  "name": "Welfare Officer(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "SR.MANAGER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.187362",
-  "name": "SR.MANAGER",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Sr STENO TYPIST Gr I",
   "docstatus": 0,
   "doctype": "Designation",
@@ -282,26 +222,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Engineer",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-19 14:10:48.598711",
-  "name": "Engineer",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Executive Assistant",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-19 14:10:48.600153",
-  "name": "Executive Assistant",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Managing Director",
   "docstatus": 0,
   "doctype": "Designation",
@@ -317,16 +237,6 @@
   "doctype": "Designation",
   "modified": "2025-06-09 15:40:17.927384",
   "name": "Engineer(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "Sr TECHNICIAN Gr II",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.835575",
-  "name": "Sr TECHNICIAN Gr II",
   "skills": []
  },
  {
@@ -432,11 +342,71 @@
  {
   "appraisal_template": null,
   "description": null,
+  "designation_name": "SENIOR ASSISTANT Gr I",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:17.912671",
+  "name": "SENIOR ASSISTANT Gr I",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Additional General Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.141892",
+  "name": "Additional General Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "General Manager(Mgmt & Operaions)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:45:56.243699",
+  "name": "General Manager(Mgmt & Operaions)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Welfare Officer(FTC)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.021992",
+  "name": "Welfare Officer(FTC)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
   "designation_name": "ASST ENGINEER",
   "docstatus": 0,
   "doctype": "Designation",
   "modified": "2025-05-28 13:13:54.297905",
   "name": "ASST ENGINEER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Executive Assistant",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-19 14:10:48.600153",
+  "name": "Executive Assistant",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Engineer",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-19 14:10:48.598711",
+  "name": "Engineer",
   "skills": []
  },
  {
@@ -452,11 +422,41 @@
  {
   "appraisal_template": null,
   "description": null,
+  "designation_name": "Sr TECHNICIAN Gr II",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-28 12:40:43.835575",
+  "name": "Sr TECHNICIAN Gr II",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
   "designation_name": "Deputy General Manager",
   "docstatus": 0,
   "doctype": "Designation",
   "modified": "2025-06-09 15:40:18.253724",
   "name": "Deputy General Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Senior Supervisor",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.094604",
+  "name": "Senior Supervisor",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "SR.MANAGER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.187362",
+  "name": "SR.MANAGER",
   "skills": []
  },
  {
