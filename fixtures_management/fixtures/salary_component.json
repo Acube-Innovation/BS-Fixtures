@@ -138,7 +138,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "LOP - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "LOP (In Hours) Refund",
     "parentfield": "accounts",
@@ -163,7 +163,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.007272",
+  "modified": "2025-08-01 12:59:22.814624",
   "name": "LOP (In Hours) Refund",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -218,7 +218,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Ex Gratia Bonus - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Ex Gratia Bonus",
     "parentfield": "accounts",
@@ -243,7 +243,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 65000.0,
-  "modified": "2025-06-17 12:48:45.423197",
+  "modified": "2025-08-01 12:51:59.160023",
   "name": "Ex Gratia Bonus",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 1,
@@ -258,7 +258,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Assumed Ex Gratia - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Assumed Ex Gratia",
     "parentfield": "accounts",
@@ -283,7 +283,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 65000.0,
-  "modified": "2025-06-17 12:45:02.127003",
+  "modified": "2025-08-01 12:58:39.165611",
   "name": "Assumed Ex Gratia",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -298,7 +298,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Income Tax - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Income Tax(BATL)",
     "parentfield": "accounts",
@@ -323,7 +323,7 @@
   "is_income_tax_component": 1,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-04 11:53:20.484583",
+  "modified": "2025-08-01 13:07:42.970875",
   "name": "Income Tax(BATL)",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -338,7 +338,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Deputation Allowance - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Deputation Allowance",
     "parentfield": "accounts",
@@ -363,7 +363,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.372001",
+  "modified": "2025-08-01 13:04:50.972525",
   "name": "Deputation Allowance",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -378,7 +378,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "LOP (Days) Deduction - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "LOP (Days) Deduction",
     "parentfield": "accounts",
@@ -403,7 +403,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 0,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-26 11:30:10.317667",
+  "modified": "2025-08-01 13:04:02.060140",
   "name": "LOP (Days) Deduction",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -418,7 +418,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Canteen Recovery - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Canteen Recovery",
     "parentfield": "accounts",
@@ -443,7 +443,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.463015",
+  "modified": "2025-08-01 13:03:24.278485",
   "name": "Canteen Recovery",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -498,7 +498,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Annual Bonus (For Tax) - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Annual Bonus (For Tax)",
     "parentfield": "accounts",
@@ -523,7 +523,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-17 13:12:57.830760",
+  "modified": "2025-08-01 13:04:27.057920",
   "name": "Annual Bonus (For Tax)",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -618,7 +618,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "LOP - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "LWP Deduction",
     "parentfield": "accounts",
@@ -643,7 +643,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 0,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-17 12:43:14.216602",
+  "modified": "2025-08-01 13:08:53.120670",
   "name": "LWP Deduction",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -698,7 +698,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Voluntary PF - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Voluntary PF",
     "parentfield": "accounts",
@@ -723,7 +723,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-29 23:11:57.018182",
+  "modified": "2025-08-01 13:05:16.874730",
   "name": "Voluntary PF",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -938,7 +938,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "LOP - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "TL Deduction",
     "parentfield": "accounts",
@@ -963,7 +963,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 0,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-17 12:44:48.227547",
+  "modified": "2025-08-01 13:08:40.366445",
   "name": "TL Deduction",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1018,7 +1018,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Night Shift Allowance - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Night Shift Allowance",
     "parentfield": "accounts",
@@ -1043,7 +1043,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:37.879011",
+  "modified": "2025-08-01 12:58:14.165408",
   "name": "Night Shift Allowance",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1138,7 +1138,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Others Earnings - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Others Earnings",
     "parentfield": "accounts",
@@ -1163,7 +1163,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:37.829224",
+  "modified": "2025-08-01 13:05:42.192770",
   "name": "Others Earnings",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1378,7 +1378,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Advance Recovery(TA) - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Advance Recovery(TA)",
     "parentfield": "accounts",
@@ -1403,7 +1403,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.617547",
+  "modified": "2025-08-01 13:07:25.734782",
   "name": "Advance Recovery(TA)",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1418,7 +1418,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "LIC Recovery - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "LIC Recovery",
     "parentfield": "accounts",
@@ -1443,7 +1443,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.096762",
+  "modified": "2025-08-01 13:06:03.222548",
   "name": "LIC Recovery",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1538,7 +1538,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "PLI Recovery - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "PLI Recovery",
     "parentfield": "accounts",
@@ -1563,7 +1563,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:37.724949",
+  "modified": "2025-08-01 13:07:03.334685",
   "name": "PLI Recovery",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1572,46 +1572,6 @@
   "salary_component": "PLI Recovery",
   "salary_component_abbr": "PLI Recovery",
   "statistical_component": 0,
-  "type": "Deduction",
-  "variable_based_on_taxable_salary": 0
- },
- {
-  "accounts": [
-   {
-    "account": "Test Account - BATL",
-    "company": "BrahMos Aerospace Thiruvananthapuram Limited",
-    "parent": "Society",
-    "parentfield": "accounts",
-    "parenttype": "Salary Component"
-   }
-  ],
-  "amount": 0.0,
-  "amount_based_on_formula": 1,
-  "component_type": "",
-  "condition": null,
-  "create_separate_payment_entry_against_benefit_claim": 0,
-  "deduct_full_tax_on_selected_payroll_date": 0,
-  "depends_on_payment_days": 0,
-  "description": "BATL Emp Co. Society Recovery",
-  "disabled": 0,
-  "do_not_include_in_total": 0,
-  "docstatus": 0,
-  "doctype": "Salary Component",
-  "exempted_from_income_tax": 0,
-  "formula": "custom_society if custom_society < gross_pay * 0.75 else 0",
-  "is_flexible_benefit": 0,
-  "is_income_tax_component": 0,
-  "is_tax_applicable": 1,
-  "max_benefit_amount": 0.0,
-  "modified": "2025-07-29 21:04:36.906655",
-  "name": "Society",
-  "only_tax_impact": 0,
-  "pay_against_benefit_claim": 0,
-  "remove_if_zero_valued": 0,
-  "round_to_the_nearest_integer": 1,
-  "salary_component": "Society",
-  "salary_component_abbr": "Society",
-  "statistical_component": 1,
   "type": "Deduction",
   "variable_based_on_taxable_salary": 0
  },
@@ -1658,7 +1618,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Canteen Coupon Deduction - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Canteen Coupon Deduction",
     "parentfield": "accounts",
@@ -1683,7 +1643,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 0,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.487248",
+  "modified": "2025-08-01 13:06:42.628715",
   "name": "Canteen Coupon Deduction",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -1698,7 +1658,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Festival Advance Recovery - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Festival Advance Recovery",
     "parentfield": "accounts",
@@ -1723,7 +1683,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.245087",
+  "modified": "2025-08-01 12:57:48.056892",
   "name": "Festival Advance Recovery",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -2098,7 +2058,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Income Tax - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Income Tax",
     "parentfield": "accounts",
@@ -2123,7 +2083,7 @@
   "is_income_tax_component": 1,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-29 23:08:54.460798",
+  "modified": "2025-08-01 12:52:56.093819",
   "name": "Income Tax",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -2138,7 +2098,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Other Recovery - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Other Recovery",
     "parentfield": "accounts",
@@ -2163,7 +2123,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:37.857937",
+  "modified": "2025-08-01 12:52:31.603086",
   "name": "Other Recovery",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -2178,7 +2138,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Benevolent Fund - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "BENEVOLENT FUND",
     "parentfield": "accounts",
@@ -2203,7 +2163,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-07-21 10:47:23.545275",
+  "modified": "2025-08-01 12:50:32.717154",
   "name": "BENEVOLENT FUND",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -2218,7 +2178,7 @@
  {
   "accounts": [
    {
-    "account": "Test Account - BATL",
+    "account": "Housing Loan - BATL",
     "company": "BrahMos Aerospace Thiruvananthapuram Limited",
     "parent": "Housing Loan",
     "parentfield": "accounts",
@@ -2243,7 +2203,7 @@
   "is_income_tax_component": 0,
   "is_tax_applicable": 1,
   "max_benefit_amount": 0.0,
-  "modified": "2025-06-15 12:28:38.196296",
+  "modified": "2025-08-01 12:49:49.662188",
   "name": "Housing Loan",
   "only_tax_impact": 0,
   "pay_against_benefit_claim": 0,
@@ -2252,6 +2212,46 @@
   "salary_component": "Housing Loan",
   "salary_component_abbr": "Housing Loan",
   "statistical_component": 0,
+  "type": "Deduction",
+  "variable_based_on_taxable_salary": 0
+ },
+ {
+  "accounts": [
+   {
+    "account": "Society - BATL",
+    "company": "BrahMos Aerospace Thiruvananthapuram Limited",
+    "parent": "Society",
+    "parentfield": "accounts",
+    "parenttype": "Salary Component"
+   }
+  ],
+  "amount": 0.0,
+  "amount_based_on_formula": 1,
+  "component_type": "",
+  "condition": null,
+  "create_separate_payment_entry_against_benefit_claim": 0,
+  "deduct_full_tax_on_selected_payroll_date": 0,
+  "depends_on_payment_days": 0,
+  "description": "BATL Emp Co. Society Recovery",
+  "disabled": 0,
+  "do_not_include_in_total": 0,
+  "docstatus": 0,
+  "doctype": "Salary Component",
+  "exempted_from_income_tax": 0,
+  "formula": "custom_society if custom_society < gross_pay * 0.75 else 0",
+  "is_flexible_benefit": 0,
+  "is_income_tax_component": 0,
+  "is_tax_applicable": 1,
+  "max_benefit_amount": 0.0,
+  "modified": "2025-08-01 13:06:34.797007",
+  "name": "Society",
+  "only_tax_impact": 0,
+  "pay_against_benefit_claim": 0,
+  "remove_if_zero_valued": 0,
+  "round_to_the_nearest_integer": 1,
+  "salary_component": "Society",
+  "salary_component_abbr": "Society",
+  "statistical_component": 1,
   "type": "Deduction",
   "variable_based_on_taxable_salary": 0
  }
