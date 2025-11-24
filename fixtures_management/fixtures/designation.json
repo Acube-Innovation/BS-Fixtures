@@ -262,26 +262,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "TECHNICIAN SUPERVISOR Gr I",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.879622",
-  "name": "TECHNICIAN SUPERVISOR Gr I",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "DY.MANAGER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.064397",
-  "name": "DY.MANAGER",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Manager",
   "docstatus": 0,
   "doctype": "Designation",
@@ -322,31 +302,11 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Additional General Manager",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-06-09 15:40:18.141892",
-  "name": "Additional General Manager",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Welfare Officer(FTC)",
   "docstatus": 0,
   "doctype": "Designation",
   "modified": "2025-06-09 15:40:18.021992",
   "name": "Welfare Officer(FTC)",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
-  "designation_name": "ASST ENGINEER",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 13:13:54.297905",
-  "name": "ASST ENGINEER",
   "skills": []
  },
  {
@@ -412,16 +372,6 @@
  {
   "appraisal_template": null,
   "description": null,
-  "designation_name": "Sr PROGRAMMER Gr III",
-  "docstatus": 0,
-  "doctype": "Designation",
-  "modified": "2025-05-28 12:40:43.872176",
-  "name": "Sr PROGRAMMER Gr III",
-  "skills": []
- },
- {
-  "appraisal_template": null,
-  "description": null,
   "designation_name": "Sr TECHNICIAN Gr I",
   "docstatus": 0,
   "doctype": "Designation",
@@ -467,6 +417,56 @@
   "doctype": "Designation",
   "modified": "2025-06-09 15:45:56.243699",
   "name": "General Manager(Mgmt & Operaions)",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "TECHNICIAN SUPERVISOR Gr I",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-28 12:40:43.879622",
+  "name": "TECHNICIAN SUPERVISOR Gr I",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "DY.MANAGER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.064397",
+  "name": "DY.MANAGER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Additional General Manager",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-06-09 15:40:18.141892",
+  "name": "Additional General Manager",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "ASST ENGINEER",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-28 13:13:54.297905",
+  "name": "ASST ENGINEER",
+  "skills": []
+ },
+ {
+  "appraisal_template": null,
+  "description": null,
+  "designation_name": "Sr PROGRAMMER Gr III",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2025-05-28 12:40:43.872176",
+  "name": "Sr PROGRAMMER Gr III",
   "skills": []
  }
 ]

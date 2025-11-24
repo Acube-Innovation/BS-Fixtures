@@ -257,5 +257,20 @@ fixtures = [
             ["designation_name", "in", ["TECHNICIAN SUPERVISOR Gr II","Manager","SENIOR ASSISTANT Gr I","Technician (FTC)","Sr TECHNICIAN Gr I","Engineer(FTC)","Sr TECHNICIAN Gr II","Managing Director","TECHNICIAN Gr II","SUPERVISOR (FTC)","Welfare Officer(FTC)","TECHNICIAN SUPERVISOR Gr I","NURSE (FTC)","DY.MANAGER","Engineer","ASST. ENGINEER","ASST ENGINEER","Senior Supervisor","TECHNICIAN Gr I","Sr PROGRAMMER Gr III","COMPANY SECRETARY","Additional General Manager","CLERK, TELEPHONE OPERATOR","General Manager(Mgmt & Operaions)","Medical Officer (FTC)","Sr. TECHNICIAN Gr I","Sr CLERK Gr I","SR.MANAGER","Sr ASSISTANT Gr I","Sr STENO TYPIST Gr II","Deputy General Manager","SUPERVISOR","ATTENDANT","Assistant Accounts Officer","Executive Assistant","Sr STENO TYPIST Gr I","Deputy General Manager (Pojects) FTC","Sr TECHNICIAN Gr.II","Technician (Machinist)","Sr CLERK Gr II","Tehnician (Machinist)","Dy MANAGER (FTC)","Engineer on FTC","Sr ATTENDANT-MESSENGER Gr I","Chief Financial Officer","Technician","Addl GENERAL MANAGER"
 ]]
         ]
+    },
+    {
+        "doctype": "Salary Structure",
+        "filters": [
+            ["name", "in", [
+                "Apprentice Employees",
+                "Canteen Employees",
+                "Payroll 2025-26"
+            ]]
+        ]
     }
 ]
+
+
+
+
+
