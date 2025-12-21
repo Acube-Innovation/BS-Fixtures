@@ -246,11 +246,11 @@ fixtures = [
     {"doctype": 
     "Salary Component", 
     },
-    {
-        "doctype": "Department",
-        "filters": [["department_name", "in", ["ADM","BD&E", "CMM", "FAB", "FIN&ACC", "GMS-1", "GMS-2", "HT", "IT", "MIC", "MHT", "MTD", "OGM", "OMD", "PMS-1", "PMS-2", "PROJECTS", "QAD", "QCD", "R&D,DC", "SCM","ST",
-]]]
-    },
+#     {
+#         "doctype": "Department",
+#         "filters": [["department_name", "in", ["ADM","BD&E", "CMM", "FAB", "FIN&ACC", "GMS-1", "GMS-2", "HT", "IT", "MIC", "MHT", "MTD", "OGM", "OMD", "PMS-1", "PMS-2", "PROJECTS", "QAD", "QCD", "R&D,DC", "SCM","ST",
+# ]]]
+#     },
     {
         "doctype": "Designation",
         "filters": [
